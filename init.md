@@ -1,16 +1,21 @@
-4p on 2024-05-05
+---
+date: 2024-05-05
+participants:
+- "[[Neil_Penning]]"
+- "[[Tolu_Delano]]"
+---
 
 # Meeting Schedule
 - Meet on Campus every day 9a
 
 # Leet Code Grind
 - Leetcode
+- 
 
 # Linear Algebra
 - 3b1b's Linear Algebra}
 - Read [Axler's Linear Algebra Done Right](https://linear.axler.net/)
 - Markov Chains
-- SQ
 - Numerical Linear Algebra
     - https://www.youtube.com/@TubingenML
 
@@ -49,7 +54,7 @@
     - Rustlings [video](https://www.youtube.com/watch?v=2hXNd6x9sZs)
     - [Rustlings Github](https://github.com/rust-lang/rustlings)
 # Quantum
-- https://www.youtube.com/watch?v=F_Riqjdh2oM
+- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - Qiskit by IBM
 - Quantum Computing since Democratus
 - Nielson
